@@ -4,9 +4,9 @@ In today's world, Gen Z communicates with a dialect of English so strange that i
 
 
 ## before
-![C++ Array Sum](/array sum.png)
+![C++ Array Sum](images/array_sum.png)
 ## after
-![Gen Z Array Sum](genz array sum.png)
+![Gen Z Array Sum](images/genz_array_sum.png)
 
 
 Now Gen Z can program in a way that feels familiar to them using our cutting edge (I made it in an hour) Gen Z-translation macros (define statements)
