@@ -1,4 +1,4 @@
-# Gen-Z-Friendly-C-Syntax
+# Gen Z-Friendly C++ Syntax
 
 In today's world, Gen Z communicates with a dialect of English so strange that it seems foreign to older people. But, similarly, the language of older generations can be hard for Gen Z to understand. C++ is almost 40 years old, and English has changed since then, which is why we are proud to introduce **Gen Z-friendly C++ syntax.**
 
