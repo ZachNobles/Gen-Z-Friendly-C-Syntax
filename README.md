@@ -11,7 +11,7 @@ In today's world, Gen Z communicates with a dialect of English so strange that i
 
 Now Gen Z can program in a way that feels familiar to them using our cutting edge (I made it in an hour) Gen Z-translation macros (define statements)
 
-xx
+![Define statements](images/defines.png)
 
 
 also included is a translator, which takes a cpp file as an input and translates it either to Gen Z syntax or normal C++ syntax. You can use it like this:
