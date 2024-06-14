@@ -8,18 +8,44 @@ In today's world, Gen Z communicates with a dialect of English so strange that i
 ## after
 ![Gen Z Array Sum](images/genz_array_sum.png)
 
+---
 
 Now Gen Z can program in a way that feels familiar to them using our cutting edge (I made it in an hour) Gen Z-translation macros (define statements)
 
 ![Define statements](images/defines.png)
 
+To use the new syntax, simply put [gen_z_syntax.h](gen_z_syntax.h) in your working directory and copy this line into your C++ file:
+```cpp
+#include "gen_z_syntax.h"
+```
+and then use our substitutions for some of C++'s most common keywords!
+
+| C++      | Gen Z |
+| -------- | -------       |
+| if       | vibe_check    |
+| else     | yikes         |
+| for      | yap           |
+| do       | flex          |
+| while    | era           |
+| try      | fuck_around   |
+| catch    | finc_out      |
+| throw    | yeet          |
+| switch   | fit_check     |
+| case     | drip          |
+| class    | lore          |
+
+plus many more.
+
+---
 
 also included is a translator, which takes a cpp file as an input and translates it either to Gen Z syntax or normal C++ syntax. You can use it like this:
 ```console
 ./translator.exe [input_file.cpp] [genz/cpp]
 ```
-It requires that the syntax header file be in the same directory.
+![C++ Heap Sort](images/heap_sort.png)
+![C++ Heap Sort](images/genz_heap_sort.png)
 
+---
 
 Stop programming like an old person today with Gen Z-Friendly C++
 :)
