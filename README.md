@@ -42,8 +42,7 @@ also included is a translator, which takes a cpp file as an input and translates
 ```console
 ./translator.exe [input_file.cpp] [genz/cpp]
 ```
-![C++ Heap Sort](images/heap_sort.png)
-![C++ Heap Sort](images/genz_heap_sort.png)
+![Heap Sort Comparison](images/heap_sort_merged.png)
 
 ---
 
