@@ -51,4 +51,4 @@ Stop programming like an old person today with Gen Z-Friendly C++
 ### Credits
 #### All code examples used to demo the translator were taken from https://www.geeksforgeeks.org/
 - [Array Sum](https://www.geeksforgeeks.org/program-find-sum-elements-given-array/)
-- [Heap Sort(https://www.geeksforgeeks.org/heap-sort/)
+- [Heap Sort](https://www.geeksforgeeks.org/heap-sort/)
